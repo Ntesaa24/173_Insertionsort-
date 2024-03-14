@@ -77,5 +77,6 @@ void insertionsort(){									// Produce Insertionsort
  int main() {											// memanggil input 
 	 input();											// memanggil insertionsort 
 	 insertionsort();									// memanggil display 
-	 display();
+	 display()
 }
+
